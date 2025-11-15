@@ -1,6 +1,6 @@
 # WatDFS
 
-FUSE-based virtual file system with a simple client–server architecture and client-side caching.
+FUSE-based virtual file system with a simple client-server architecture and client-side caching.
 
 ## Features
 
